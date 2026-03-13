@@ -30,11 +30,11 @@ export default function App() {
   const { h, m, s } = useCountdown();
 
   const features = [
-    { icon: '📡', text: '+15.000 canais ao vivo' },
+    { icon: '📡', text: '+5.000 canais ao vivo' },
     { icon: '🎬', text: 'Netflix, Disney+, HBO, Prime...' },
     { icon: '👁️', text: 'BBB 25 — todas as câmeras 24h' },
     { icon: '🍿', text: 'Filmes lançamentos do cinema' },
-    { icon: '⚽', text: 'Futebol, UFC, F1 e todos esportes' },
+    { icon: '⚽', text: 'Premiere, UFC, F1 e todos esportes' },
     { icon: '📱', text: 'Funciona em qualquer aparelho' },
   ];
 
