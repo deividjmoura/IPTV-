@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const WHATSAPP_NUMBER = '5511999999999';
+const WHATSAPP_NUMBER = '5547997708291';
 const WHATSAPP_MSG = encodeURIComponent(
   '🔥 Quero testar 4 HORAS GRÁTIS do IPTV Premium!'
 );
