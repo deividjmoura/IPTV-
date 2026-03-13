@@ -35,7 +35,7 @@ export default function App() {
     { icon: '👁️', text: 'BBB 25 — todas as câmeras 24h' },
     { icon: '🍿', text: 'Filmes lançamentos do cinema' },
     { icon: '⚽', text: 'Premiere, UFC, F1 e todos esportes' },
-    { icon: '🔞', text: 'Conteúdo para De 18 Anos' },
+    { icon: '🔞', text: 'Conteúdo para maiores de 18 Anos' },
     { icon: '📱', text: 'Funciona em qualquer aparelho' },
   ];
 
